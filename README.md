@@ -1,6 +1,6 @@
-# Hi One Only — hioneonly.com
+# HiOneOnly — hioneonly.com
 
-Static marketing site (HTML + CSS) for the **Hi One Only** platform.
+Static marketing site (HTML + CSS) for the **HiOneOnly** platform.
 Its purpose is to describe the platform and host the **Privacy Policy** and
 **Terms & Conditions** required for the **TikTok Developer** app review.
 
